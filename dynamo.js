@@ -1,7 +1,6 @@
 var AWS = require("aws-sdk");
 AWS.config.update({ region: process.env.AWS_REGION });
 
-// Create the DynamoDB service object
 var ddb = new AWS.DynamoDB({ apiVersion: "2012-08-10" });
 
 const getParams = {
