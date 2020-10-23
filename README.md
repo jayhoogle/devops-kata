@@ -1,8 +1,8 @@
 # Interview Pairing Exercise
 
-We've provided some source code for a small aplication which keeps track of the count of sales.
+We've provided some source code for a small application which keeps track of the count of sales.
 
-Your task is to deploy the application to AWS Lambda using Terraform or CloudFormation.
+Your task is to deploy the application to AWS Lambda using Infrastructure as Code.
 
 Familiarise yourself with the source code and figure out which AWS resources you will need to deploy. First focus on the getCountOfSold lambda, if you complete that we can look at the updateVehicleSales lambda.
 
