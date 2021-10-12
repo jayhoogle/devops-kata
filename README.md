@@ -2,9 +2,9 @@
 
 We've provided some source code for a small aplication which keeps track of the count of sales.
 
-Your task is to deploy the application to AWS Lambda using Terraform or CloudFormation.
+Your task is to deploy the application to AWS Lambda using Terraform or CloudFormation in the pairing interview. You do not need to start working on the task before the interview, the aim is to do this together.
 
-Familiarise yourself with the source code and figure out which AWS resources you will need to deploy. First focus on the getCountOfSold lambda, if you complete that we can look at the updateVehicleSales lambda.
+Familiarise yourself with the source code and figure out which AWS resources you will need to deploy. First you will need to deploy the getCountOfSold lambda, if you complete that we can look at deploying the updateVehicleSales lambda.
 
 This will be a pairing exercise so we would like you to talk us through what you are doing and ask us questions!
 
